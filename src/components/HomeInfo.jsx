@@ -17,12 +17,12 @@ const renderContent = {
       Hi, I'm
       <span className="font-semibold mx-2 text-white">Tero</span>
       👋
-      <br />A Software Engineer from Finland
+      <br />A Software Developer from Finland
     </h1>
   ),
   2: (
     <InfoBox
-      text="Worked with many companies and picked up many skills along the way"
+      text="Worked with many projects and picked up many skills along the way"
       link="/about"
       btnText="Learn more"
     />

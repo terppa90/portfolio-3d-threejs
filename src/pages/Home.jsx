@@ -95,3 +95,5 @@ export default Home;
 // 3D-models from:
 // sketchfab.com
 // https://gltf.pmnd.rs/
+
+// https://www.youtube.com/watch?v=FkowOdMjvYo&t=7373s

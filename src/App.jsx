@@ -5,7 +5,7 @@ import { Home, About, Projects, Contact } from './pages';
 
 const App = () => {
   return (
-    <main className="bg-slate-300/20 h-[100vh]">
+    <main className="bg-slate-300/20 h-full">
       <Router>
         <Navbar />
         <Routes>
@@ -22,3 +22,5 @@ const App = () => {
 export default App;
 
 // https://www.npmjs.com/package/react-vertical-timeline-component
+
+// project link: https://www.youtube.com/watch?v=FkowOdMjvYo&t=7373s
